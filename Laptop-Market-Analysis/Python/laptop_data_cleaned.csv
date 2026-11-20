@@ -1,0 +1,439 @@
+﻿Brand,Product Name,CPU,CPU Vendor,CPU Family,GPU,GPU Vendor,GPU Family,GPU Type,RAM (GB),SSD (GB),Screen Size (inch),Price (VND),Rating,Sold Count
+HP,Laptop HP 240R G10,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,21290000.0,4.9,5902.0
+ASUS,Laptop Asus Vivobook 14 X1404VA,Intel Core 3 Raptor Lake 100U,Intel,Intel Core 3,Intel UHD Graphics,Intel,Intel UHD,Integrated,8.0,256.0,14.0,15590000.0,5.0,76.0
+HP,Laptop HP 15 fc0023AU,AMD Ryzen 5 7520U,AMD,AMD Ryzen 5,AMD Radeon 610M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,15.6,21090000.0,4.9,8001.0
+Apple,MacBook Air 13 inch M5 16GB/512GB/8GPU 30W,Apple M5,Apple,Apple M5,Integrated GPU - 8 cores,Apple,Apple GPU,Integrated,16.0,512.0,13.6,33390000.0,5.0,7.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22990000.0,5.0,3906.0
+Acer,Laptop Acer Aspire Lite 14 AL14,AMD Ryzen 7 7730U,AMD,AMD Ryzen 7,AMD Radeon 680M Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.5,19490000.0,5.0,252.0
+ASUS,Laptop Asus Zenbook 14 UM3406GA,AMD Ryzen AI 7 445,AMD,AMD Ryzen AI 7,AMD Radeon 840M,AMD,AMD Radeon,Integrated,32.0,1024.0,14.0,35990000.0,5.0,205.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 15IPH11,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.3,24990000.0,5.0,2839.0
+ASUS,Laptop Asus Vivobook S 16 S3607VA,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,16.0,25490000.0,5.0,161.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22990000.0,5.0,1982.0
+SingPC,Laptop SingPC M16,Intel Core i3 Alder Lake 1215U,Intel,Intel Core i 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,256.0,14.0,13690000.0,5.0,1234.0
+ASUS,Laptop Asus Vivobook S14 S3407VA,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,21890000.0,5.0,2990.0
+Dell,Laptop Dell 15 DC15255,AMD Ryzen 5 7530U,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,15.6,23990000.0,5.0,519.0
+HP,Laptop HP OmniBook 5 AI 16 af1048TU,Intel Core Ultra 5 Arrow Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,26990000.0,5.0,2164.0
+Acer,Laptop Acer Aspire Lite 15 AL15,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,20490000.0,5.0,287.0
+ASUS,Laptop Asus Zenbook 14 UX3405CA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,32.0,512.0,14.0,35590000.0,5.0,209.0
+Apple,MacBook Air 15 inch M5 16GB/512GB 35W,Apple M5,Apple,Apple M5,Integrated GPU - 10 cores,Apple,Apple GPU,Integrated,16.0,512.0,15.3,39490000.0,5.0,760.0
+Acer,Acer Aspire Lite 14 AL14,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,22990000.0,5.0,21.0
+ASUS,Laptop Asus TUF Gaming A15 FA506NCQ,AMD Ryzen 7 170,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,27990000.0,5.0,2559.0
+HP,Laptop HP 245 G10,AMD Ryzen 5 7530U,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,19790000.0,4.9,8055.0
+HP,Laptop HP Gaming VICTUS 15 fa2731TX,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,27990000.0,4.9,3490.0
+ASUS,Laptop Asus Vivobook 15 X1504VA,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,23190000.0,5.0,2118.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22490000.0,5.0,3071.0
+ASUS,Laptop Asus Vivobook Go 15 E1504FA,AMD Ryzen 5 40,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,15.6,18990000.0,5.0,2155.0
+Acer,Laptop Acer Aspire Go 15 AG15,Intel Core Ultra 5 Meteor Lake 115U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,22990000.0,5.0,263.0
+Apple,MacBook Pro 14 inch M5 Max 36GB/2TB,Apple M5 Max,Apple,Apple M5 Max,Integrated GPU - 32 cores,Apple,Apple GPU,Integrated,36.0,2048.0,14.2,111190000.0,5.0,1.0
+ASUS,Laptop Asus Zenbook 14 UX3405CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,32990000.0,5.0,1.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 15IWC11,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.3,22990000.0,5.0,1497.0
+Lenovo,Laptop Lenovo Ideapad Slim 3 15IWC11,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.3,18990000.0,5.0,2159.0
+Acer,Laptop Acer Gaming Aspire 7 A715,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,25990000.0,5.0,1302.0
+HP,Laptop HP 15 fd2127TU,Intel Core Ultra 5 Arrow Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,24090000.0,5.0,854.0
+Acer,Laptop Acer Aspire Lite 15 AL15,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,8.0,512.0,15.6,18490000.0,5.0,525.0
+HP,Laptop HP OmniBook 5 Flip 14 fp0057TU,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,26990000.0,5.0,2476.0
+Dell,Laptop Dell 14 DC14250,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,27990000.0,5.0,2733.0
+Acer,Laptop Acer Aspire Lite 15 AL15,AMD Ryzen 5 3500U,AMD,AMD Ryzen 5,AMD Radeon Vega Mobile Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,15.6,17990000.0,5.0,343.0
+SingPC,Laptop SingPC M16,Intel Core i5 Alder Lake 1235U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,18190000.0,5.0,253.0
+Acer,Laptop Acer Swift Air 14 SFA14,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,12.0,512.0,14.0,24990000.0,5.0,7.0
+MSI,MSI Cyborg 15 Black Edition A13VEO,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,31990000.0,5.0,270.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV15,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,39990000.0,5.0,15.0
+HP,Laptop HP 15 fd1486TU,Intel Core Ultra 5 Meteor Lake 125H,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,24.0,512.0,15.6,21990000.0,5.0,1822.0
+Dell,Laptop Dell Pro 14 Essential PV14250,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel UHD Graphics (Iris Xe Graphics chỉ hoạt động với RAM kênh đôi),Intel,Intel Iris Xe,Integrated,16.0,512.0,14.0,27990000.0,5.0,2223.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 14IWC11,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,8.0,512.0,14.0,18990000.0,5.0,936.0
+ASUS,Laptop Asus Vivobook 14 X1407CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,24790000.0,5.0,1758.0
+HP,Laptop HP 15 fd2126TU,Intel Core Ultra 5 Arrow Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,24090000.0,5.0,852.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,25490000.0,4.9,5109.0
+ASUS,Asus TUF Gaming A15 FA506NCG,AMD Ryzen 7 155,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,8.0,512.0,15.6,25990000.0,5.0,192.0
+Thunderobot,"Laptop Thunderobot Gaming 911 S ",Intel Core i5 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,24790000.0,5.0,25.0
+ASUS,Laptop Asus Vivobook Go 15 E1504FA,AMD Ryzen 5 40,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,15.6,21590000.0,4.9,1676.0
+HP,Laptop HP 15 fd1487TU,Intel Core Ultra 5 Meteor Lake 125H,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,24.0,512.0,15.6,21990000.0,5.0,843.0
+Acer,Acer Gaming Nitro ProPanel ANV15,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 5050, 8 GB - GDDR7",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,37990000.0,5.0,15.0
+HP,Laptop HP Pavilion 16 af0055TU,Intel Core Ultra 5 Meteor Lake 125U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,20890000.0,5.0,3146.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22490000.0,5.0,4387.0
+Dell,Laptop Dell Inspiron 14 5441,Snapdragon X Plus X1P-64-100,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,16.0,512.0,14.0,25990000.0,4.9,749.0
+Lenovo,Laptop Lenovo Gaming LOQ 15IRX9,Intel Core i5 Raptor Lake 13450HX,Intel,Intel Core i 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,34990000.0,5.0,3350.0
+HP,Laptop HP Gaming VICTUS 15 fb3115AX,AMD Ryzen 7 7445HS,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,30490000.0,5.0,705.0
+Acer,Acer Swift Go AI SFG14,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,512.0,14.0,27990000.0,5.0,8.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV15 52 72BM,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,38490000.0,5.0,240.0
+ASUS,Laptop Asus VivoBook Go 14 E1404FA,AMD Ryzen 5 40,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,21490000.0,5.0,1753.0
+Dell,Laptop Dell 14 DC14250,Intel Core 3 Raptor Lake 100U,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,18990000.0,5.0,1006.0
+Acer,Laptop Acer Gaming Nitro ProPanel AN16S 61 R193,AMD Ryzen AI 9 365,AMD,AMD Ryzen AI 9,"NVIDIA GeForce RTX 5070, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,59990000.0,5.0,2.0
+HP,Laptop HP Gaming VICTUS 15 fb3116AX,AMD Ryzen 7 7445HS,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,27990000.0,5.0,1505.0
+ASUS,Laptop Asus Vivobook S14 S3407CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,25990000.0,4.9,2119.0
+Acer,Laptop Acer Aspire Lite 15 AL15,AMD Ryzen 7 5825U,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,15.6,20190000.0,5.0,322.0
+Acer,Laptop Acer Aspire Lite 16 G2 AL16 52P 76DU,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel Iris Xe Graphics eligible,Intel,Intel Iris Xe,Integrated,16.0,512.0,16.0,20990000.0,4.9,1311.0
+ASUS,Laptop Asus Gaming Vivobook K3605VC,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,20990000.0,4.9,3601.0
+Dell,Dell 15 DC15255,AMD Ryzen 7 7730U,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,1024.0,15.6,28990000.0,5.0,826.0
+HP,Laptop HP OmniBook 5 AI 16 af1046TU,Intel Core Ultra 5 Arrow Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,27990000.0,5.0,1095.0
+ASUS,Laptop Asus VivoBook 16 X1607CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,25990000.0,5.0,1477.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 14IPH11,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,14.0,24990000.0,5.0,624.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,1024.0,15.6,22990000.0,5.0,1892.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,25490000.0,5.0,1436.0
+HP,Laptop HP 15 fd1288TU,Intel Core Ultra 7 Meteor Lake 155H,Intel,Intel Core Ultra 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,15.6,25990000.0,5.0,1031.0
+HP,Laptop HP OmniBook 5 Flip 14 fp0055TU,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,24.0,512.0,14.0,31690000.0,5.0,750.0
+MSI,Laptop MSI Gaming Cyborg 15 A13UC,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,26990000.0,5.0,521.0
+Acer,Laptop Acer Aspire Lite 16 AI AL16 71P 5674,Intel Core Ultra 5 Meteor Lake 125H,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,16.0,19990000.0,4.9,1248.0
+HP,Laptop HP OmniBook 5 16 ag1069AU,AMD Ryzen AI 5 340,AMD,AMD Ryzen AI 5,AMD Radeon 840M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,16.0,25990000.0,5.0,595.0
+HP,Laptop HP 240R G9,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,21290000.0,5.0,405.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,25490000.0,5.0,1303.0
+Lenovo,Laptop Lenovo Ideapad Slim 5 OLED 14AKP10,AMD Ryzen AI 5 330,AMD,AMD Ryzen AI 5,AMD Radeon 820M Graphics,AMD,AMD Radeon,Integrated,16.0,1024.0,14.0,29990000.0,5.0,453.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,1024.0,15.6,27490000.0,5.0,1243.0
+Lenovo,Laptop Lenovo IdeaPad Slim 5 OLED 14IPH11,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,29990000.0,5.0,303.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV15 52 59AA,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,36990000.0,5.0,153.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22490000.0,5.0,2298.0
+HP,Laptop HP OmniBook X Flip 14 fm0088TU,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,512.0,14.0,31390000.0,5.0,611.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,1024.0,15.6,27490000.0,5.0,1371.0
+HP,Laptop HP OmniBook 5 AI 16 af1054TU,Intel Core Ultra 7 Arrow Lake 255U,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,16.0,32390000.0,4.9,565.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV16,Intel Core 5 205H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,29990000.0,0.0,0.0
+Acer,Laptop Acer Aspire Go 14 AG14,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,20490000.0,5.0,754.0
+Acer,Acer Nitro ProPanel ANV15,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,32490000.0,5.0,102.0
+Gigabyte,Laptop GIGABYTE Gaming A16 GA6H,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,35990000.0,5.0,711.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 15IWC11,Intel Core 3 304,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.3,16990000.0,5.0,1072.0
+HP,Laptop HP 15 fd0015TU,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,19490000.0,4.9,6632.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 14IWC11,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,16.0,512.0,14.0,22990000.0,5.0,375.0
+Dell,Laptop Dell 15 DC15250,Intel Core 3 Raptor Lake 100U,Intel,Intel Core 3,Intel UHD Graphics,Intel,Intel UHD,Integrated,8.0,512.0,15.6,21490000.0,5.0,537.0
+Lenovo,Laptop Lenovo Gaming LOQ 15IRX9,Intel Core i7 Raptor Lake 13645HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,15.6,35990000.0,4.9,457.0
+Dell,Laptop Dell 14 DC14250,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,29390000.0,5.0,770.0
+HP,Laptop HP Gaming VICTUS 15 fa2451TX,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,30490000.0,5.0,302.0
+HP,Laptop HP 240R G10,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,25990000.0,5.0,250.0
+Acer,Laptop Acer Aspire Go 15 AG15,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,20490000.0,5.0,798.0
+Acer,Laptop Acer Swift Air 14 SFA14,Intel Core 3 Twin Lake 304,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,12.0,512.0,14.0,21990000.0,5.0,7.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22990000.0,5.0,1722.0
+HP,Laptop HP 240R G9,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,19790000.0,5.0,404.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,1024.0,15.6,22490000.0,5.0,1217.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22490000.0,5.0,1811.0
+HP,Laptop HP Probook 4 G1ah 16,AMD Ryzen 5 220,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,16.0,25790000.0,5.0,245.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,1024.0,15.6,27490000.0,5.0,1473.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,25490000.0,5.0,611.0
+Gigabyte,Laptop GIGABYTE Gaming A16 GA6H,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,33990000.0,5.0,495.0
+MSI,Laptop MSI Gaming Katana 15 HX B14WFK,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,46990000.0,5.0,46.0
+HP,Laptop HP OmniBook 7 Aero 13 bg1087AU,AMD Ryzen AI 5 340,AMD,AMD Ryzen AI 5,AMD Radeon 840M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,13.3,28490000.0,5.0,279.0
+Acer,Laptop Acer Aspire Lite 15 AL15,AMD Ryzen 5 40,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,15.6,20490000.0,5.0,559.0
+HP,Laptop HP Pavilion 15 eg3112TU,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,22490000.0,5.0,1070.0
+ASUS,Laptop Asus ZenBook 14 UX3405CA,Intel Core Ultra 5 Arrow Lake 255H,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,29590000.0,4.9,494.0
+MSI,Laptop MSI Gaming Katana 15 HX B14WEK,Intel Core i5 Raptor Lake 14450HX,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,40990000.0,5.0,58.0
+Acer,Laptop Acer Swift Go 14 AI SFG14,Intel Core Ultra X7 358H,Intel,Intel Core Ultra X 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,49990000.0,5.0,3.0
+HP,Laptop HP Gaming VICTUS 15 fa2732TX,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,30490000.0,5.0,686.0
+ASUS,Laptop Asus Vivobook 14 X1404VA,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,20990000.0,5.0,1956.0
+ASUS,Laptop Asus Zenbook 14 UX3405CA,Intel Core Ultra 9 Arrow Lake 285H,Intel,Intel Core Ultra 9,Intel Arc Graphics,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,38590000.0,5.0,279.0
+HP,Laptop HP 15 fd0234TU,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,19690000.0,4.9,3744.0
+Acer,Acer Aspire Lite 14 AL14,Intel Core 7 Wildcat Lake 350,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,22490000.0,5.0,6.0
+MSI,Laptop MSI Gaming Cyborg 15 B13WFKG,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,15.6,39990000.0,5.0,36.0
+ASUS,Laptop Asus Vivobook 15 X1504VA,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,20990000.0,5.0,1420.0
+ASUS,Laptop Asus Zenbook 14 UX3405CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,30890000.0,4.9,864.0
+Dell,Laptop Dell 14 DC14250,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,"NVIDIA Geforce MX570A, 2 GB",NVIDIA,NVIDIA GeForce MX,Dedicated,16.0,512.0,14.0,30990000.0,5.0,375.0
+Lenovo,Laptop Lenovo Ideapad Slim 5 OLED 14AGP11,AMD Ryzen AI 7 445,AMD,AMD Ryzen AI 7,AMD Radeon 840M Graphics,AMD,AMD Radeon,Integrated,32.0,512.0,14.0,36990000.0,5.0,80.0
+Acer,Laptop Acer Aspire Lite 16 AL16,Intel Core Ultra 5 Meteor Lake 125H,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,16.0,23490000.0,5.0,28.0
+MSI,Laptop MSI Gaming Cyborg 15 Black Edition A13VE,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,30990000.0,5.0,169.0
+Dell,Laptop Dell 14 DC14250,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,31990000.0,5.0,559.0
+Acer,Laptop Acer Aspire Go 15 AG15,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,22990000.0,5.0,121.0
+Gigabyte,Laptop GIGABYTE Gaming A16 GA6H,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,35990000.0,5.0,125.0
+Acer,Acer Gaming Nitro ProPanel ANV15,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,34990000.0,5.0,64.0
+Dell,Laptop Dell 15 DC15250,Intel Core 3 Raptor Lake 100U,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.6,21490000.0,5.0,505.0
+HP,Laptop HP 15 fd1490TU,Intel Core Ultra 7 Meteor Lake 155H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,24.0,512.0,15.6,25990000.0,5.0,458.0
+HP,Laptop HP OmniBook X Flip 14 fm0076TU,Intel Core Ultra 7 Meteor Lake 258V,Intel,Intel Core Ultra 7,Intel Arc 140V,Intel,Intel Arc,Integrated,32.0,512.0,14.0,39890000.0,5.0,352.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,1024.0,15.6,28490000.0,5.0,397.0
+Acer,Laptop Acer Gaming Nitro V 15 ProPanel ANV15 41 R0FE,AMD Ryzen 7 7735HS,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,30990000.0,5.0,294.0
+Dell,Laptop Dell Inspiron 15 3530,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,21990000.0,5.0,4054.0
+MSI,Laptop MSI Gaming Katana 15 HX B14WFK,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,32.0,512.0,15.6,49990000.0,5.0,85.0
+ASUS,Laptop Asus Gaming V16 V3607VJ,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,27990000.0,4.9,1037.0
+Acer,Laptop Acer Aspire Lite 15 AL15,AMD Ryzen 5 7430U,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,15.6,18690000.0,5.0,467.0
+Lenovo,Laptop Lenovo ThinkBook 14,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,1024.0,14.0,36590000.0,5.0,273.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV16,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,45990000.0,5.0,4.0
+Dell,Laptop Dell Gaming Alienware 16 Aurora AC16250,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,16.0,37990000.0,5.0,406.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,25490000.0,5.0,656.0
+Lenovo,Laptop Lenovo Gaming LOQ 15IRX9,Intel Core i7 Raptor Lake 13650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,15.6,39990000.0,5.0,588.0
+Lenovo,Laptop Lenovo ThinkBook 16 G9 IRL,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,16.0,28090000.0,5.0,272.0
+Dell,Laptop Dell Inspiron 15 3530,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,21990000.0,4.9,2046.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV16S 41 R337,AMD Ryzen AI 7 260,AMD,AMD Ryzen AI 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,16.0,41990000.0,5.0,13.0
+HP,Laptop HP 240R G10,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,19790000.0,5.0,301.0
+Gigabyte,Laptop GIGABYTE Gaming A16 GA6H,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,37990000.0,5.0,77.0
+Dell,Laptop Dell Gaming Alienware 16 Aurora AC16250,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,16.0,40990000.0,5.0,242.0
+Lenovo,Laptop Lenovo ThinkPad E14 Gen 7,Intel Core Ultra 5 Arrow Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,14.0,36990000.0,5.0,62.0
+Dell,Laptop Dell Gaming Alienware 16 Aurora AC16250,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,33990000.0,5.0,988.0
+ASUS,Laptop Asus Vivobook S16 M3607GA,AMD Ryzen AI 7 445,AMD,AMD Ryzen AI 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,16.0,27990000.0,5.0,107.0
+Lenovo,Laptop Lenovo V14 G5,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,24390000.0,5.0,335.0
+ASUS,Laptop Asus Vivobook S14 S3407CA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,27990000.0,5.0,752.0
+Dell,Laptop Dell 16 DC16250,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,16.0,33990000.0,5.0,168.0
+HP,Laptop HP Pavilion 15 eg3091TU,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,22490000.0,4.9,3145.0
+Gigabyte,Laptop GIGABYTE Gaming A16 GA6H,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,38490000.0,5.0,97.0
+Acer,Laptop Acer Gaming Nitro Lite 16 NL16 71G 71UJ,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,30990000.0,5.0,242.0
+ASUS,Laptop Asus Zenbook S 14 UX5406SA,Intel Core Ultra 7 Lunar Lake 258V,Intel,Intel Core Ultra 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,43990000.0,5.0,254.0
+Acer,Acer Swift AI SF14 51 75VP Ultra 7 258V (NX.J2KSV.001),Intel Core Ultra 7 Lunar Lake - 258V,Intel,Intel Core Ultra 7,Intel Arc 140V,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,35990000.0,5.0,51.0
+Dell,Laptop Dell 14 DC14250,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,28390000.0,5.0,110.0
+Acer,Laptop Acer Aspire Lite 15 AL15,Intel Core 3 Twin Lake N350,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.6,15690000.0,5.0,1421.0
+ASUS,Laptop Asus Vivobook 14 M1407GA,AMD Ryzen 7 445,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,23690000.0,5.0,193.0
+HP,Laptop HP OmniBook X Flip 14 fk0092AU,AMD Ryzen AI 5 340,AMD,AMD Ryzen AI 5,AMD Radeon 840M,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,31290000.0,5.0,217.0
+HP,Laptop HP 15 fc0655AU,AMD Ryzen 5 7430U,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,15.6,20190000.0,5.0,4588.0
+Lenovo,Laptop Lenovo ThinkBook 14 Gen 8,Intel Core Ultra 5 Meteor Lake 135H,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,2048.0,14.0,32290000.0,5.0,124.0
+Dell,Laptop Dell 15 DC15250,Intel Core 3 Raptor Lake 100U,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.6,21490000.0,5.0,349.0
+Lenovo,Laptop Lenovo V15 G5 IRL,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,23890000.0,5.0,321.0
+Dell,Laptop Dell Inspiron 14 5440,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,27990000.0,4.9,1456.0
+Dell,Laptop Dell 15 DC15250,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,1024.0,15.6,27490000.0,5.0,867.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 16IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,29990000.0,5.0,76.0
+HP,Laptop HP OmniBook 7 16 az0038TU,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,24.0,512.0,16.0,26790000.0,5.0,122.0
+Dell,Laptop Dell 16 Plus DB16250,Intel Core Ultra 7 Lunar Lake 256V,Intel,Intel Core Ultra 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,1024.0,16.0,40990000.0,5.0,103.0
+ASUS,Laptop Asus Zenbook 14 UM3406GA,AMD Ryzen AI 7 445,AMD,AMD Ryzen AI 7,AMD Radeon 840M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,29590000.0,5.0,239.0
+HP,Laptop HP 14 ep1137TU,Intel Core Ultra 7 Meteor Lake 155H,Intel,Intel Core Ultra 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,22990000.0,5.0,659.0
+Acer,Laptop Acer Gaming Aspire 7 A715,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,30990000.0,5.0,101.0
+ASUS,Laptop Asus TUF Gaming A16 FA607NUQ,AMD Ryzen 7 170,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,35990000.0,5.0,320.0
+Dell,Laptop Dell Inspiron 15 3530,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,24490000.0,5.0,984.0
+MSI,Laptop MSI Prestige 14 AI+ Evo C2VMG,Intel Core Ultra 7 Lunar Lake 258V,Intel,Intel Core Ultra 7,Intel Arc 140V,Intel,Intel Arc,Integrated,32.0,1024.0,14.1,35990000.0,5.0,73.0
+ASUS,Laptop Asus Vivobook 14 M1407KA,AMD Ryzen AI 5 330,AMD,AMD Ryzen AI 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,21990000.0,5.0,426.0
+Dell,Laptop Dell 14 DC14250,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,29990000.0,5.0,191.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV16 41 R6ZY,AMD Ryzen 5 8645HS,AMD,AMD Ryzen 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,30990000.0,5.0,196.0
+HP,Laptop HP ProBook 4 G1iR 14,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,26990000.0,5.0,145.0
+HP,Laptop HP EliteBook 6 G1a 14,AMD Ryzen AI 5 340,AMD,AMD Ryzen AI 5,AMD Radeon 840M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,29990000.0,5.0,40.0
+MSI,Laptop MSI Gaming Vector 16 HX AI A2XWIG,Intel Core Ultra 9 Arrow Lake 275HX,Intel,Intel Core Ultra 9,"NVIDIA GeForce RTX 5080, 16 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,16.0,80990000.0,5.0,4.0
+Lenovo,Laptop Lenovo Gaming Legion 5 15IRX10,Intel Core i7 Raptor Lake 13650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.3,51990000.0,5.0,94.0
+HP,Laptop HP OmniBook 5 AI 16 af1052TU,Intel Core Ultra 7 Arrow Lake 255U,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,16.0,33390000.0,5.0,317.0
+Acer,Laptop Acer Nitro Lite NL16,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,32990000.0,5.0,257.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 15IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,15.3,29990000.0,5.0,93.0
+ASUS,Laptop Asus Vivobook 14 Flip TP3407SA,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,26590000.0,5.0,434.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 15IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.3,29990000.0,5.0,108.0
+HP,Laptop HP OmniBook 7 14 fr0024TU,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Arc 140T,Intel,Intel Arc,Integrated,32.0,512.0,14.0,34990000.0,5.0,107.0
+HP,HP OmniBook 7 14 fr0033TU,Intel Core Ultra 5 Meteor Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,27990000.0,5.0,133.0
+ASUS,Laptop Asus Zenbook A14 UX3407QA,Snapdragon X X1 26 100,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,16.0,512.0,14.0,28590000.0,5.0,338.0
+ASUS,Laptop Asus Vivobook 16 X1607CA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,26590000.0,5.0,203.0
+HP,Laptop HP Pavilion 16 af0053TU,Intel Core Ultra 7 Meteor Lake 155U,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,24390000.0,5.0,958.0
+Dell,Laptop Dell Gaming Alienware 16 Aurora AC16250,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,16.0,44990000.0,5.0,66.0
+HP,Laptop HP 15 fd0235TU,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,512.0,15.6,19690000.0,5.0,2572.0
+HP,Laptop HP Probook 4 G1i 16,Intel Core Ultra 7 Arrow Lake 255U,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,29990000.0,5.0,135.0
+Lenovo,Laptop Lenovo Gaming LOQ 15ARP10E,AMD Ryzen 7 7735HS,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,38490000.0,5.0,223.0
+MSI,Laptop MSI Gaming Katana 15 HX B14WGK,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5070, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,15.6,49990000.0,5.0,12.0
+Dell,Laptop Dell 14 DC14250,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,14.0,27990000.0,5.0,428.0
+Lenovo,Laptop Lenovo ThinkPad E14 Gen 7,Intel Core Ultra 5 Lunar Lake 228V,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,14.0,38390000.0,5.0,117.0
+MSI,Laptop MSI Gaming Katana 15 HX B14WFK,Intel Core i9 Raptor Lake 14900HX,Intel,Intel Core i 9,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,48990000.0,5.0,25.0
+ASUS,Laptop Asus Vivobook S14 S3407VA,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,23490000.0,5.0,482.0
+Dell,Laptop Dell Inspiron 15 3530,Intel Core i7 Raptor Lake 1355U,Intel,Intel Core i 7,Intel Iris Xe Graphics,Intel,Intel Iris Xe,Integrated,16.0,1024.0,15.6,26490000.0,4.9,3427.0
+HP,Laptop HP OmniBook 5 16 ag1066AU,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,AMD Radeon 860M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,16.0,30790000.0,5.0,67.0
+HP,Laptop HP EliteBook 6 G1a 14,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,AMD Radeon 860M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,32990000.0,5.0,31.0
+HP,Laptop HP OmniBook X Flip 14 fk0082AU,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,AMD Radeon 860M Graphics,AMD,AMD Radeon,Integrated,32.0,1024.0,14.0,39890000.0,5.0,58.0
+Dell,Laptop Dell Pro 13 Plus PB13250,Intel Core Ultra 5 Arrow Lake 235U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,13.3,30490000.0,5.0,96.0
+HP,Laptop HP EliteBook 6 G1i 13,Intel Core Ultra 5 Arrow Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,13.3,31990000.0,5.0,167.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 13,Intel Core Ultra 7 Lunar Lake 258V,Intel,Intel Core Ultra 7,Intel Arc Graphics 140V,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,77990000.0,5.0,16.0
+Lenovo,Laptop Lenovo V15 G5 IRL,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,8.0,512.0,15.6,23890000.0,5.0,80.0
+ASUS,Laptop Asus Vivobook S14 M3407GA,AMD Ryzen AI 7 445,AMD,AMD Ryzen AI 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,27990000.0,5.0,158.0
+Lenovo,Laptop Lenovo ThinkBook 16 G9,AMD Ryzen 7 250,AMD,AMD Ryzen 7,AMD Radeon 780M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,16.0,30190000.0,5.0,72.0
+HP,Laptop HP OmniBook 7 16 az0043TU,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,1024.0,16.0,34990000.0,5.0,23.0
+ASUS,Laptop Asus Vivobook S14 S3407CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,27890000.0,5.0,239.0
+Lenovo,Laptop Lenovo ThinkBook 14 Gen 9 IRL,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,2048.0,14.0,30790000.0,5.0,37.0
+HP,Laptop HP 15 fd1037TU,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,15.6,23490000.0,4.9,174.0
+HP,Laptop HP OmniBook UF 14 fh0097TU,Intel Core Ultra 7 Lunar Lake 258V,Intel,Intel Core Ultra 7,Intel Arc 140V,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,55990000.0,5.0,44.0
+HP,Laptop HP Pavilion 16 af0052TU,Intel Core Ultra 7 Meteor Lake 155U,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,16.0,25390000.0,5.0,538.0
+HP,HP ProBook 4 G1a 14,AMD Ryzen 7 250,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,30590000.0,5.0,2.0
+Lenovo,Laptop Lenovo IdeaPad 5 2in1 14IPH11,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,30990000.0,5.0,27.0
+HP,Laptop HP Probook 4 G1i 16,Intel Core Ultra 5 Arrow Lake 225U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,29490000.0,5.0,143.0
+Dell,Laptop Dell 16 DC16251,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,"NVIDIA Geforce MX570A, 2 GB",NVIDIA,NVIDIA GeForce MX,Dedicated,16.0,1024.0,16.0,33990000.0,5.0,73.0
+HP,Laptop HP Probook 4 G1ah 16,AMD Ryzen 7 250,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,16.0,30590000.0,5.0,4.0
+Lenovo,Laptop Lenovo Yoga 7 2in1 14IPH11,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,38490000.0,5.0,21.0
+Lenovo,Laptop Lenovo ThinkBook 14 G9,AMD Ryzen 7 250,AMD,AMD Ryzen 7,AMD Radeon 780M Graphics,AMD,AMD Radeon,Integrated,16.0,2048.0,14.0,33390000.0,5.0,44.0
+HP,Laptop HP EliteBook 6 G1i 13,Intel Core Ultra 7 Arrow Lake 255U,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,13.3,35990000.0,5.0,71.0
+Lenovo,Laptop Lenovo IdeaPad 5 2in1 14IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,35990000.0,5.0,26.0
+HP,Laptop HP ProBook 4 G1q 14,Snapdragon X X1 26 100,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,32.0,512.0,14.0,26590000.0,5.0,32.0
+HP,HP OmniBook 5 14 hh0075TU,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,35990000.0,0.0,0.0
+Lenovo,Laptop Lenovo IdeaPad Slim 5 14AGP11,AMD Ryzen AI 7 445,AMD,AMD Ryzen AI 7,AMD Radeon 840M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,30990000.0,5.0,33.0
+HP,Laptop HP OmniBook UF 14 fh0095TU,Intel Core Ultra 9 Lunar Lake 288V,Intel,Intel Core Ultra 9,Intel Arc 140V,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,58990000.0,5.0,21.0
+HP,Laptop HP Elitebook Ultra G1q,Snapdragon X Elite X1E 78 100,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,32.0,1024.0,14.0,48790000.0,5.0,5.0
+Dell,Laptop Dell 16 DC16250,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,16.0,33990000.0,5.0,89.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 14IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,29990000.0,5.0,21.0
+HP,Laptop HP Gaming HyperX Omen 15 ga0092TX,Intel Core i5 Raptor Lake 14450HX,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,15.3,45590000.0,5.0,1.0
+HP,Laptop HP HyperX Omen 15 ga0091TX,Intel Core i5 Raptor Lake 14450HX,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.3,48590000.0,5.0,1.0
+HP,Laptop HP OmniBook 7 16 az0040TU,Intel Core 9 Raptor Lake 270H,Intel,Intel Core 9,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,16.0,39890000.0,5.0,18.0
+Lenovo,Lenovo Yoga Slim 7 OLED 14IPH11 Ultra 7 355,Intel Core Ultra 7 Panther Lake - 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,1024.0,14.0,54490000.0,5.0,12.0
+HP,Laptop HP Elitebook X360 830 G11,Intel Core Ultra 5 Meteor Lake 135U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,13.3,43690000.0,5.0,7.0
+HP,HP ProBook 4 G2i 16,Intel Core Ultra 5 Panther Lake 325,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,35190000.0,5.0,3.0
+Lenovo,Laptop Lenovo IdeaPad Slim 5 14IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,34990000.0,5.0,34.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 13,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,1024.0,14.0,61390000.0,5.0,2.0
+Lenovo,Laptop Lenovo Yoga Slim 7 Ultra 14IPH11,Intel Core Ultra 7 Arrow Lake 355,Intel,Intel Core Ultra 7,Integrated Graphics,Unknown,Integrated Graphics,Integrated,32.0,1024.0,14.0,64990000.0,5.0,3.0
+Apple,MacBook Neo 13 inch A18 Pro 8GB/256GB,Apple A18 Pro,Apple,Apple A Series,Integrated GPU - 5 cores,Apple,Apple GPU,Integrated,8.0,256.0,13.0,19190000.0,4.9,74.0
+MSI,Laptop MSI Gaming Stealth A16 Mercedes AMG AI+ A3XWGG,AMD Ryzen AI 9 HX 370,AMD,AMD Ryzen AI 9,"NVIDIA GeForce RTX 5070, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,32.0,2048.0,16.0,79990000.0,5.0,1.0
+ASUS,Asus Vivobook15 X1504MA,Intel Core 3 Wildcat Lake 304,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.6,16990000.0,5.0,1038.0
+ASUS,Asus Vivobook 14 X1404MA,Intel Core 3 Wildcat Lake 304,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,16990000.0,5.0,154.0
+Acer,Laptop Acer Aspire Lite 15 AL15,AMD Ryzen 3 3200U,AMD,AMD Ryzen 3,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,256.0,15.6,15490000.0,5.0,81.0
+ASUS,Laptop Asus Vivobook 14 X1407CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,14.0,24890000.0,5.0,1170.0
+Dell,Dell 14 DC14250,Intel Core 3 100U,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,21490000.0,5.0,298.0
+Dell,Dell 15 DC15250,Intel Core i5 1334U,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,28990000.0,5.0,159.0
+ASUS,Laptop Asus Vivobook 16 X1607CA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,24990000.0,5.0,969.0
+ASUS,Laptop Asus Gaming V16 V3607VU,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,30990000.0,5.0,132.0
+ASUS,Laptop Asus Vivobook 15 X1504MA,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,23990000.0,5.0,588.0
+Lenovo,Lenovo Gaming LOQ 15IRH11E,Intel Core 5 Raptor Lake 205H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,8.0,512.0,15.3,26990000.0,5.0,75.0
+ASUS,Asus Vivobook 16 X1607CA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,28990000.0,5.0,154.0
+ASUS,Asus Vivobook S 14 S5408QA,Snapdragon X X1 26 101,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,16.0,512.0,14.0,23990000.0,5.0,50.0
+Apple,MacBook Pro 14 inch M5 24GB/1TB,Apple M5,Apple,Apple M5,Integrated GPU - 10 cores,Apple,Apple GPU,Integrated,24.0,1024.0,14.2,58490000.0,5.0,175.0
+ASUS,Laptop Asus Vivobook Go 14 E1404FA,AMD Ryzen 5 40,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,18890000.0,5.0,1074.0
+Thunderobot,Laptop Thunderobot T,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,Intel UHD Graphics,Intel,Intel UHD,Integrated,16.0,512.0,15.6,18590000.0,5.0,25.0
+ASUS,Laptop Asus Vivobook Go 15 E1504FA,AMD Ryzen 5 40,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,15.6,18990000.0,5.0,29.0
+Lenovo,Lenovo Gaming LOQ 15IRH11E,Intel Core 5 Raptor Lake 205H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.3,31990000.0,5.0,39.0
+ASUS,Asus Gaming V16 V3607VJ Core 5,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,28990000.0,5.0,380.0
+ASUS,Laptop Asus Vivobook Go 14 E1404FA,AMD Ryzen 5 40,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,18890000.0,5.0,759.0
+Thunderobot,Thunderobot T,AMD Ryzen 3 3200U,AMD,AMD Ryzen 3,AMD Radeon Vega 3 (Integrated GPU),AMD,AMD Radeon,Integrated,8.0,512.0,15.6,13590000.0,5.0,134.0
+Lenovo,Lenovo IdeaPad Slim 3 15AHP10,AMD Ryzen 5,AMD,AMD Ryzen 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,8.0,512.0,15.3,20990000.0,5.0,14.0
+Acer,Laptop Acer Aspire Lite 15 AL15,AMD Ryzen 5 3500U,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,256.0,15.6,17490000.0,5.0,100.0
+Acer,Laptop Acer Aspire Lite 14 AL14,AMD Ryzen 5 3500U,AMD,AMD Ryzen 5,AMD Radeon Vega Mobile Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,17990000.0,5.0,206.0
+ASUS,Laptop Asus ExpertBook P5 P5405CSA,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,512.0,14.0,28990000.0,5.0,106.0
+Acer,Laptop Acer Aspire Lite 15 AL15,AMD Ryzen 7 7730U,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,15.6,22990000.0,5.0,158.0
+Apple,Laptop MacBook Pro 14 inch M5 Pro 24GB/1TB 70W,Apple M5 Pro,Apple,Apple M5 Pro,Integrated GPU - 16 cores,Apple,Apple GPU,Integrated,24.0,1024.0,14.2,67190000.0,5.0,173.0
+Dell,Laptop Dell Pro 15 Essential PV15250,Intel Core 3 Raptor Lake 100U,Intel,Intel Core 3,Integrated Graphics,Unknown,Integrated Graphics,Integrated,8.0,512.0,15.6,22490000.0,5.0,31.0
+Lenovo,Laptop Lenovo Gaming LOQ 15IRH11E,Intel Core 7 Wildcat Lake 230H,Intel,Intel Core 7,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,8.0,512.0,15.3,28990000.0,5.0,50.0
+Acer,Laptop Acer Aspire Lite 14 AL14,AMD Ryzen 3 5400U,AMD,AMD Ryzen 3,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,15590000.0,5.0,1227.0
+ASUS,Laptop Asus Vivobook S14 S3407CA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,28890000.0,5.0,160.0
+Lenovo,Laptop Lenovo ThinkPad E16 Gen 3,Intel Core Ultra 5 135H,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,33690000.0,5.0,9.0
+Dell,Dell 15 DC15250,Intel Core 3 Raptor Lake 100U,Intel,Intel Core 3,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.6,21490000.0,5.0,141.0
+Apple,MacBook Air 15 inch M5 24GB/512GB 70W,Apple M5,Apple,Apple M5,Integrated GPU - 10 cores,Apple,Apple GPU,Integrated,24.0,512.0,15.3,45690000.0,5.0,80.0
+Dell,Laptop Dell 15 DC15250,Intel Core i5 Raptor Lake 1334U,Intel,Intel Core i 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,28990000.0,5.0,5.0
+ASUS,Laptop Asus ExpertBook P3 P3406CCAP,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,28990000.0,5.0,18.0
+ASUS,Laptop Asus Vivobook 14 X1404MA,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,20990000.0,5.0,321.0
+ASUS,Laptop Asus Vivobook 15 X1504MA,Intel Core 7 Wildcat Lake 350,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,15.6,27490000.0,5.0,70.0
+ASUS,Laptop Asus Vivobook 15 X1504MA,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.6,20990000.0,5.0,471.0
+ASUS,Laptop Asus Vivobook S14 S3407VA,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,26990000.0,5.0,58.0
+Apple,MacBook Pro 14 inch M5 16GB/1TB,Apple M5,Apple,Apple M5,Integrated GPU - 10 cores,Apple,Apple GPU,Integrated,16.0,1024.0,14.2,53190000.0,5.0,331.0
+Apple,Macbook Air 13 inch M5 24GB/512GB 70W,Apple M5,Apple,Apple M5,Integrated GPU - 10 cores,Apple,Apple GPU,Integrated,24.0,512.0,13.6,39990000.0,5.0,60.0
+ASUS,Asus TUF Gaming F16 FX610JH,Intel Core i5 Raptor Lake 14450HX,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB - GDDR7",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,38990000.0,5.0,8.0
+Lenovo,Lenovo IdeaPad Slim 3 15AHP10,AMD Ryzen 7 155,AMD,AMD Ryzen 7,Integrated Graphics,Unknown,Integrated Graphics,Integrated,8.0,512.0,15.3,22990000.0,5.0,8.0
+ASUS,Asus TUF Gaming A15 FA506NCG,AMD Ryzen 7 155,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 3050, 4 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,27990000.0,5.0,205.0
+MSI,Laptop MSI Gaming Cyborg 15 C13WEO,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5050 GPU, 8GB - GDDR7",NVIDA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,34990000.0,5.0,64.0
+Acer,Acer Gaming Aspire 7 A715,Intel Core 5 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,30490000.0,5.0,80.0
+Dell,Laptop Dell Pro 14 PC14250,Intel Core Ultra 5 Arrow Lake 235U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,37290000.0,5.0,40.0
+MSI,MSI Cyborg 15 C13WEO,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,31990000.0,5.0,102.0
+ASUS,Laptop Asus Zenbook 14 UX3405CA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,36490000.0,5.0,2.0
+Lenovo,Lenovo Yoga Slim 7 OLED 14ILL11,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,512.0,14.0,32990000.0,5.0,12.0
+Lenovo,Laptop Lenovo ThinkBook 14x ILL,Intel Core Ultra 5 Meteor Lake 226V,Intel,Intel Core Ultra 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,16.0,512.0,14.0,30190000.0,5.0,10.0
+Lenovo,Laptop Lenovo Gaming LOQ 15IRX10,Intel Core i7 Raptor Lake 13650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,15.6,43990000.0,5.0,83.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 16IPH11,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,24.0,1024.0,16.0,28990000.0,5.0,30.0
+ASUS,Laptop Asus Vivobook 15 X1504MA,Intel Core 7 Wildcat Lake 350,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,15.6,23990000.0,5.0,33.0
+Apple,MacBook Pro 16 inch M5 Pro 24GB/1TB,Apple M5 Pro,Apple,Apple M5 Pro,Integrated GPU - 20 cores,Apple,Apple GPU,Integrated,24.0,1024.0,16.2,78690000.0,5.0,71.0
+ASUS,Laptop ASUS Vivobook 14 X1407AA,Intel Core Ultra 5 Panther Lake 325,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,14.0,25090000.0,5.0,70.0
+Dell,Laptop Dell 16 DC16250,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,16.0,27990000.0,5.0,55.0
+ASUS,Laptop Asus TUF Gaming A16 FA608UM,AMD Ryzen 7 260,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,43590000.0,5.0,46.0
+ASUS,Laptop Asus Gaming ROG Strix G16 G614PH,AMD Ryzen 9 8940HX,AMD,AMD Ryzen 9,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,46590000.0,5.0,83.0
+ASUS,Laptop Asus ExpertBook P5 P5405CSA,Intel Core Ultra 7 Lunar Lake 258V,Intel,Intel Core Ultra 7,Intel Arc 140V,Intel,Intel Arc,Integrated,32.0,512.0,14.0,35990000.0,5.0,29.0
+ASUS,Laptop Asus Gaming ROG Strix G16 G614PM,AMD Ryzen 9 8940HX,AMD,AMD Ryzen 9,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,54990000.0,5.0,34.0
+ASUS,Laptop Asus TUF Gaming FX607VJG,Intel Core 5 Raptor Lake 205H,Intel,Intel Core 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,31590000.0,5.0,1.0
+Lenovo,Laptop Lenovo Gaming LOQ 15IRH11E,Intel Core 7 Wildcat Lake 230H,Intel,Intel Core 7,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.3,33990000.0,5.0,9.0
+Lenovo,Lenovo Legion 5 15IAX11 Ultra 7 251HX (83VK00A2VN),Intel Core Ultra X7 - 251HX,Intel,Intel Core Ultra X 7,"Card rời - NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,24.0,512.0,15.3,62990000.0,5.0,3.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 14IWC1,Intel Core 5 Wildcat Lake 315,Intel,Intel Core 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,8.0,512.0,15.3,23990000.0,5.0,1.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 14,Intel Core Ultra 7 356H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,1024.0,14.0,91390000.0,5.0,1.0
+Acer,Acer Aspire Lite 14 AL14,Intel Core 5 315,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,8.0,512.0,14.0,18490000.0,5.0,11.0
+Dell,Laptop Dell XPS 13 DX13260,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,13.4,46290000.0,5.0,1.0
+Lenovo,Laptop Lenovo Ideapad Slim 5 OLED 14AKP10,AMD Ryzen AI 5 330,AMD,AMD Ryzen AI 5,AMD Radeon 820M Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,31990000.0,5.0,5.0
+Lenovo,Lenovo IdeaPad Slim 3 14AHP10 R7 155 (83K9004RVN),AMD Ryzen 7 155,AMD,AMD Ryzen 7,AMD Radeon 740M Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,22990000.0,5.0,2.0
+Dell,Laptop Dell XPS 13 DX13260,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,13.4,46290000.0,5.0,9.0
+Gigabyte,GIGABYTE GAMING EAGLE,AMD Ryzen 5 7533HS,AMD,AMD Ryzen 5,"NVIDIA GeForce RTX 3050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,29490000.0,5.0,14.0
+Gigabyte,GIGABYTE GAMING EAGLE,AMD Ryzen 5 7533HS,AMD,AMD Ryzen 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,31490000.0,5.0,9.0
+Lenovo,Laptop Lenovo Yoga Slim 7 14IPH11,Intel Core Ultra 7 Arrow Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,40990000.0,5.0,5.0
+ASUS,Laptop Asus ExpertBook P5 P5406CCA,Intel Core Ultra 5 Arrow Lake 225H,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,31990000.0,5.0,13.0
+MSI,MSI Cyborg 15 Black Edition A13VEO,Intel Core i5 Raptor Lake 13420H,Intel,Intel Core i 5,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,29990000.0,5.0,43.0
+Acer,Acer Nitro ProPanel AN16S,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,49990000.0,5.0,1.0
+ASUS,Laptop Asus ExpertBook Ultra B9 B9406CAA,Intel Core Ultra X7 Panther Lake 358H,Intel,Intel Core Ultra X 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,63990000.0,5.0,5.0
+Apple,MacBook Air 13 inch M5 24GB/1TB 35W,Apple M5,Apple,Apple M5,Integrated GPU - 10 cores,Apple,Apple GPU,Integrated,24.0,1024.0,13.6,45190000.0,5.0,106.0
+Lenovo,Laptop Lenovo V14 G5,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,30590000.0,5.0,9.0
+ASUS,Laptop Asus Gaming ROG Strix G16 G614PR,AMD Ryzen 9 8940HX,AMD,AMD Ryzen 9,"NVIDIA GeForce RTX 5070Ti, 12 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,69990000.0,5.0,4.0
+ASUS,Laptop Asus Vivobook S14 M3407HA,AMD Ryzen 5 220,AMD,AMD Ryzen 5,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,24390000.0,5.0,270.0
+ASUS,Laptop Asus TUF Gaming FX608JHI,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,43990000.0,5.0,46.0
+ASUS,Laptop Asus TUF Gaming A16 FA608PP,AMD Ryzen 9 8940HX,AMD,AMD Ryzen 9,"NVIDIA GeForce RTX 5070, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,55990000.0,5.0,11.0
+Dell,Laptop Dell 16 Plus DB16250,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,1024.0,16.0,36290000.0,5.0,35.0
+Lenovo,Laptop Lenovo Yoga Pro 9 15N1X11,NVIDIA RTX Spark™ N1X 6144-core GPU and 20-core CPU,NVIDIA,NVIDIA,NVIDIA Blackwell RTX 6144-core GPU,NVIDIA,NVIDIA Blackwell,Dedicated,64.0,1024.0,15.3,129290000.0,0.0,0.0
+Apple,Macbook Pro 16 inch PROLED M5 Pro 24GB/1TB,Apple M5 Pro,Apple,Apple M5 Pro,Integrated GPU - 20 cores,Apple,Apple GPU,Integrated,24.0,1024.0,16.3,92990000.0,0.0,0.0
+Apple,Macbook Pro 14 inch PROLED M5 Pro 24GB/1TB,Apple M5 Pro,Apple,Apple M5 Pro,Integrated GPU - 16 cores,Apple,Apple GPU,Integrated,24.0,1024.0,14.2,79990000.0,0.0,0.0
+Apple,Macbook Pro 14 inch PROLED M5 Max 36GB/2TB,Apple M5 Max,Apple,Apple M5 Max,Integrated GPU - 32 cores,Apple,Apple GPU,Integrated,36.0,2048.0,14.2,123990000.0,0.0,0.0
+ASUS,Laptop Asus ZenBook UX3480QA,Snapdragon® X X1 26 X1 26 100,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,16.0,512.0,14.0,29990000.0,0.0,0.0
+ASUS,Laptop Asus ZenBook UX3480KA,AMD Ryzen 7 345,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,33490000.0,0.0,0.0
+Apple,MacBook Pro 14 inch M6 16GB/1TB,Apple M6,Apple,Apple M6,Integrated GPU - 12 cores,Apple,Apple GPU,Integrated,16.0,1024.0,14.2,54990000.0,0.0,0.0
+ASUS,Laptop Asus Zenbook 14 UX3480AA,Intel Core Ultra 9 Panther Lake 386H,Intel,Intel Core Ultra 9,Intel Arc Graphics,Intel,Intel Arc,Integrated,24.0,512.0,14.0,46990000.0,0.0,0.0
+ASUS,Laptop Asus Zenbook 14 UX3480AA,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,24.0,512.0,14.0,41590000.0,0.0,0.0
+ASUS,Laptop Asus ZenBook UX3480AA,Intel Core Ultra 5 Panther Lake 325,Intel,Intel Core Ultra 5,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,34490000.0,0.0,0.0
+ASUS,Laptop Asus Zenbook 14 UX3405CA,Intel Core Ultra 9 285H,Intel,Intel Core Ultra 9,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,40890000.0,0.0,0.0
+ASUS,Laptop Asus ProArt P16 H7607BA,NVIDIA RTX Spark N1X,NVIDIA,NVIDIA,NVIDIA Blackwell RTX,NVIDIA,NVIDIA Blackwell,Dedicated,64.0,1024.0,16.0,124990000.0,0.0,0.0
+ASUS,Laptop Asus ZenBook UX3480KA,AMD Ryzen 7 345,AMD,AMD Ryzen 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,24.0,512.0,14.0,38490000.0,0.0,0.0
+ASUS,Laptop Asus ProArt P14 H7407BA,NVIDIA RTX Spark N1X,NVIDIA,NVIDIA,NVIDIA Blackwell RTX,NVIDIA,NVIDIA Blackwell,Dedicated,48.0,1024.0,14.0,110990000.0,0.0,0.0
+ASUS,Laptop Asus ProArt P16 H7607BA,NVIDIA RTX Spark N1X,NVIDIA,NVIDIA,NVIDIA Blackwell RTX GPU,NVIDIA,NVIDIA Blackwell,Dedicated,128.0,1024.0,16.0,188990000.0,0.0,0.0
+ASUS,Laptop Asus ProArt P16 H7607BA,NVIDIA RTX Spark N1X,NVIDIA,NVIDIA,NVIDIA RTX Blackwell,NVIDIA,NVIDIA Blackwell,Dedicated,48.0,1024.0,16.0,115990000.0,0.0,0.0
+Gigabyte,Laptop GIGABYTE GAMING A16,Intel Core Ultra 9 185H,Intel,Intel Core Ultra 9,"NVIDIA GeForce RTX 5060, 8GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,40490000.0,0.0,0.0
+Gigabyte,Laptop GIGABYTE AERO X16,AMD Ryzen AI 9 400 Series 465,AMD,AMD Ryzen AI 9,"NVIDIA GeForce RTX 5070, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,54990000.0,0.0,0.0
+Lenovo,Laptop Lenovo Yoga Pro 7 15IPH11,Intel Core Ultra 7 Meteor Lake 356H,Intel,Intel Core Ultra 7,NVIDIA GeForce RTX 5050,NVIDIA,NVIDIA GeForce RTX,Dedicated,24.0,512.0,15.3,75290000.0,0.0,0.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 15IWC11,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,16.0,512.0,15.3,27590000.0,0.0,0.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 14,Intel Core Ultra 7 356H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,1024.0,14.0,93590000.0,0.0,0.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 14,Intel Core Ultra 7 Panther Lake 356H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,14.0,83490000.0,0.0,0.0
+Lenovo,Laptop Lenovo ThinkPad X13 Gen 6,Intel Core Ultra 7 Meteor Lake 255H,Intel,Intel Core Ultra 7,Intel Arc 140T,Intel,Intel Arc,Integrated,32.0,1024.0,13.3,59690000.0,0.0,0.0
+Lenovo,Laptop Lenovo Yoga Pro 7 15ASH11,AMD Ryzen AI Max 388,AMD,AMD Ryzen AI Max,Integrated AMD Radeon 8060S Graphics,AMD,AMD Radeon,Integrated,32.0,512.0,15.3,67990000.0,0.0,0.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 14IWC11,Intel Core Ultra 5 Meteor Lake 226V,Intel,Intel Core Ultra 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,16.0,512.0,14.0,32290000.0,0.0,0.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 14,Intel Core Ultra 5 Meteor Lake 325,Intel,Intel Core Ultra 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,32.0,512.0,14.0,70790000.0,0.0,0.0
+Lenovo,Lenovo IdeaPad Slim 5 13IWC11,Intel Core 7 Wildcat Lake 350,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,13.3,37990000.0,0.0,0.0
+Lenovo,Laptop Lenovo IdeaPad Slim 5 13IWC11,Intel Core 5 Wildcat Lake 315,Intel,Intel Core 5,Integrated Graphics,Unknown,Integrated Graphics,Integrated,16.0,512.0,13.0,33990000.0,0.0,0.0
+Lenovo,"Lenovo Ideapad Slim 3 16AHP10 ",AMD Ryzen 7 155,AMD,AMD Ryzen 7,AMD Radeon 740M Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,16.0,22990000.0,0.0,0.0
+ASUS,Asus Vivobook 14 X1404MA,Intel Core 7 Wildcat Lake 350,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,27390000.0,5.0,5.0
+Lenovo,Lenovo Gaming LOQ 15IRX9,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 4050, 6 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,47590000.0,0.0,0.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 14IWC1,Intel Core 3 Twin Lake 304,Intel,Intel Core 3,Integrated Graphics,Unknown,Integrated Graphics,Integrated,8.0,512.0,14.0,21490000.0,5.0,2.0
+Lenovo,Lenovo IdeaPad Slim 3 14AHP10 R5 125 (83K9004QVN),AMD Ryzen 5 125,AMD,AMD Ryzen 5,AMD Radeon 740M Graphics,AMD,AMD Radeon,Integrated,8.0,512.0,14.0,20990000.0,0.0,0.0
+Lenovo,Lenovo IdeaPad 5 2in1 14IPH11 Ultra 7 355 (83UG005RVN),Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,41990000.0,0.0,0.0
+Acer,Laptop Acer Swift Air 14 SFA14,Intel Core 5 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,12.0,512.0,14.0,24990000.0,5.0,11.0
+Lenovo,Lenovo IdeaPad 5 2in1 14IPH11,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,36990000.0,0.0,0.0
+ASUS,Laptop Asus Zenbook S 14 UX5406AA,Intel Core Ultra 9 Panther Lake 386H,Intel,Intel Core Ultra 9,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,46990000.0,5.0,2.0
+HP,HP OmniBook 5 14 hh0072TU,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,39990000.0,0.0,0.0
+HP,HP OmniBook 5 14 hh0073TU,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,38990000.0,5.0,2.0
+HP,HP OmniBook X Flip 14 kb0048TU,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,14.0,49190000.0,5.0,3.0
+HP,HP OmniBook 5 14 hh0074TU,Intel Core Ultra 5 Panther Lake 322,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,36990000.0,0.0,0.0
+HP,HP ProBook 4 G2i 16,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,39190000.0,5.0,2.0
+Acer,Laptop Acer Aspire Go 14 AI AG14,Intel Core Ultra 9 Meteor Lake 185H,Intel,Intel Core Ultra 9,Intel Arc Graphics,Intel,Intel Arc,Integrated,16.0,512.0,14.0,27990000.0,5.0,2.0
+HP,HP OmniBook Ultra 14 kd0039TU,Intel Core Ultra 7 Panther Lake 356H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,1024.0,14.0,59190000.0,5.0,1.0
+MSI,MSI Cyborg 15 Max C13WF,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,43990000.0,5.0,2.0
+MSI,MSI Cyborg 15 Max C13WE,Intel Core i7 Raptor Lake 13620H,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.6,41990000.0,5.0,1.0
+ASUS,Laptop Asus ExpertBook P5 P5406CCA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,35490000.0,5.0,3.0
+Lenovo,Laptop Lenovo Yoga Slim 7 Ultra 14IPH11,Intel Core Ultra 7 Arrow Lake 355,Intel,Intel Core Ultra 7,Integrated Graphics,Unknown,Integrated Graphics,Integrated,32.0,1024.0,14.0,62990000.0,5.0,5.0
+ASUS,Laptop Asus ExpertBook P5 P5406CCA,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,35490000.0,5.0,2.0
+Lenovo,Lenovo ThinkPad E14,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Arc Graphics 140T,Intel,Intel Arc,Integrated,16.0,512.0,14.0,43790000.0,5.0,12.0
+Lenovo,Lenovo Yoga Slim 7 14IPH11,Intel Core Ultra 7 Arrow Lake 355,Intel,Intel Core Ultra 7,Integrated Graphics,Unknown,Integrated Graphics,Integrated,16.0,512.0,14.0,40990000.0,5.0,5.0
+Acer,Acer Nitro ProPanel ANV16S,AMD Ryzen AI 5 340,AMD,AMD Ryzen AI 5,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,44990000.0,0.0,0.0
+Acer,Acer Nitro ProPanel ANV16,Intel Core 7 Raptor Lake 240H,Intel,Intel Core 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,40990000.0,5.0,7.0
+Acer,Acer Swift Go AI SFG14,Intel Core Ultra 7 Lunar Lake 258V,Intel,Intel Core Ultra 7,Intel Arc Graphics 140V,Intel,Intel Arc,Integrated,32.0,512.0,14.0,39990000.0,0.0,0.0
+Lenovo,Lenovo ThinkPad E14,Intel Core 7 240H,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,38190000.0,5.0,25.0
+MSI,Laptop MSI Modern 14S G3MG,Intel Core 5 Wildcat Lake 320,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,14.0,28390000.0,5.0,1.0
+Lenovo,Laptop Lenovo Yoga Slim 7 Ultra 14IPH11,Intel Core Ultra X9 378H,Intel,Intel Core Ultra X 9,Intel Arc Graphics,Intel,Intel Arc,Integrated,32.0,1024.0,14.0,75790000.0,5.0,4.0
+Lenovo,Lenovo Gaming Legion 5 15AHP11,AMD Ryzen 7 250,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 5050, 8 GB - GDDR7",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.3,51990000.0,0.0,0.0
+ASUS,Laptop Asus Zenbook 14 UM3406GA,AMD Ryzen 7 445,AMD,AMD Ryzen 7,Integrated Graphics,Unknown,Integrated Graphics,Integrated,16.0,512.0,14.0,34590000.0,0.0,0.0
+ASUS,Laptop Asus ExpertBook Ultra B9 B9406CAA,Intel Core Ultra X7 Panther Lake Không,Intel,Intel Core Ultra X 7,Intel Arc Graphics,Intel,Intel Arc,Integrated,64.0,2048.0,14.0,95990000.0,5.0,1.0
+Acer,Laptop Acer Gaming Predator Helios Neo 16S PHN16S,Intel Core Ultra 9 Panther Lake 386H,Intel,Intel Core Ultra 9,"NVIDIA GeForce RTX 5070, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,75990000.0,0.0,0.0
+Acer,Laptop Acer Gaming Nitro ProPanel AN16S,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,"NVIDIA GeForce RTX 5070, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,57990000.0,0.0,0.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV16S,Intel Core 5 Raptor Lake 210H,Intel,Intel Core 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,44990000.0,5.0,1.0
+Acer,Laptop Acer Gaming Nitro ProPanel ANV16S,AMD Ryzen AI 5 340,AMD,AMD Ryzen AI 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,40990000.0,5.0,1.0
+Lenovo,Laptop Lenovo Yoga 7 2in1 14IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,1024.0,14.0,55990000.0,5.0,3.0
+Lenovo,Laptop Lenovo IdeaPad Slim 3 16IPH11,Intel Core Ultra 7 Panther Lake 355,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,29990000.0,5.0,10.0
+Acer,Laptop Acer Gaming Predator Helios 18 AI PH18 73 93P0,Intel Core Ultra 9 Arrow Lake 275HX,Intel,Intel Core Ultra 9,"NVIDIA GeForce RTX 5080, 16 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,64.0,1024.0,18.0,99290000.0,5.0,2.0
+Dell,Laptop Dell Pro 13 Plus PB13250,Intel Core Ultra 5 Lunar Lake 236V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,512.0,13.3,36090000.0,0.0,0.0
+Lenovo,Laptop Lenovo ThinkPad X9 14 Gen 1,Intel Core Ultra 7 Lunar Lake 258V,Intel,Intel Core Ultra 7,Intel Arc Graphics 140V,Intel,Intel Arc,Integrated,32.0,512.0,14.0,60590000.0,5.0,9.0
+Acer,Laptop Acer Gaming Predator Helios 18 AI PH18 73 98AQ,Intel Core Ultra 9 Arrow Lake 275HX,Intel,Intel Core Ultra 9,"NVIDIA GeForce RTX 5090, 24 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,192.0,2048.0,18.0,149290000.0,5.0,1.0
+Gigabyte,Laptop GIGABYTE Gaming A16,AMD Ryzen 7 260,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,36490000.0,5.0,25.0
+Dell,Laptop Dell Pro 14 Plus PB14250,Intel Core Ultra 5 Arrow Lake 235U,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,34590000.0,0.0,0.0
+Gigabyte,Laptop GIGABYTE Gaming A16,AMD Ryzen 7 260,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,38490000.0,5.0,18.0
+Gigabyte,Laptop GIGABYTE Gaming AERO X16,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,42990000.0,5.0,19.0
+ASUS,Laptop Asus TUF Gaming F16 FX608JHI,Intel Core i5 Raptor Lake 14450HX,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,41990000.0,5.0,1.0
+ASUS,Laptop Asus Zenbook S 16 UM5606GA,AMD Ryzen AI 9 465,AMD,AMD Ryzen AI 9,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,16.0,44990000.0,5.0,14.0
+ASUS,Laptop Asus Gaming ROG Zephyrus G14 GU405AW,Intel Core Ultra 9 Panther Lake 386H,Intel,Intel Core Ultra 9,"NVIDIA GeForce RTX 5080, 16 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,32.0,1024.0,14.0,116990000.0,0.0,0.0
+ASUS,Laptop Asus Zenbook A14 UX3407NA,Snapdragon X2 Elite X2E88100,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,16.0,512.0,14.0,39990000.0,5.0,2.0
+ASUS,Laptop Asus Zenbook A14 UX3407NA,Snapdragon X2 Elite X2E88100,Qualcomm,Qualcomm Snapdragon,Qualcomm Adreno GPU,Qualcomm,Qualcomm Adreno,Integrated,32.0,1024.0,14.0,54990000.0,5.0,2.0
+Apple,MacBook Air 15 inch M5 16GB/1TB 35W,Apple M5,Apple,Apple M5,Integrated GPU - 10 cores,Apple,Apple GPU,Integrated,16.0,1024.0,15.3,45890000.0,5.0,65.0
+ASUS,Laptop Asus Zenbook DUO UX8407AA,Intel Core Ultra X7 Panther Lake 358H,Intel,Intel Core Ultra X 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,14.0,78990000.0,0.0,0.0
+Dell,Laptop Dell Pro 14 PC14250,Intel Core Ultra 7 Arrow Lake 255U,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,32.0,512.0,14.0,54290000.0,5.0,4.0
+Lenovo,Laptop Lenovo Gaming Legion 5 15IPH11,Intel Core Ultra 7 Panther Lake 365H,Intel,Intel Core Ultra 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,15.3,60990000.0,5.0,9.0
+Apple,Macbook Pro 16 inch M5 Max 36GB/2TB,Apple M5 Max,Apple,Apple M5 Max,Integrated GPU - 32 cores,Apple,Apple GPU,Integrated,36.0,2048.0,16.2,117690000.0,5.0,2.0
+ASUS,Laptop Asus Vivobook S14 S3407AA,Intel Core Ultra 5 Panther Lake Đang cập nhật,Intel,Intel Core Ultra 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,14.0,29890000.0,5.0,8.0
+Acer,Laptop Acer Gaming Predator Helios Neo 16 PHN16,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,32.0,512.0,16.0,59990000.0,0.0,0.0
+Acer,Laptop Acer Gaming Predator Helios Neo 16 PHN16,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5050, 8 GB - GDDR7",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,512.0,16.0,54990000.0,5.0,1.0
+Lenovo,Laptop Lenovo Gaming Legion 5 15AHP11,AMD Ryzen 7 250,AMD,AMD Ryzen 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,15.3,54990000.0,5.0,7.0
+Acer,Laptop Acer Gaming Predator Helios Neo 16 PHN16,Intel Core i5 Raptor Lake 14450HX,Intel,Intel Core i 5,"NVIDIA GeForce RTX 5050, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,32.0,512.0,16.0,49990000.0,5.0,1.0
+HP,Laptop HP EliteBook 6 G1a 14,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,AMD Radeon 860M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,34990000.0,5.0,6.0
+HP,Laptop HP EliteBook 6 G1a 14,AMD Ryzen AI 5 340,AMD,AMD Ryzen AI 5,AMD Radeon 840M Graphics,AMD,AMD Radeon,Integrated,16.0,512.0,14.0,31990000.0,5.0,2.0
+ASUS,Laptop Asus TUF Gaming FA401EA,AMD Ryzen AI Max+ 392,AMD,AMD Ryzen AI Max+,AMD Radeon 8060S Graphics,AMD,AMD Radeon,Integrated,64.0,2048.0,14.0,63590000.0,5.0,4.0
+Dell,Laptop Dell 14 DC14255,AMD Ryzen AI 7 350,AMD,AMD Ryzen AI 7,AMD Radeon Graphics,AMD,AMD Radeon,Integrated,16.0,1024.0,14.0,31490000.0,5.0,21.0
+Dell,Laptop Dell 14 DC14250,Intel Core 7 Raptor Lake 150U,Intel,Intel Core 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,14.0,31990000.0,5.0,68.0
+MSI,Laptop MSI Prestige 14 Flip AI+ D3MTG,Intel Core Ultra 9 Panther Lake 386H,Intel,Intel Core Ultra 9,Intel Graphics,Intel,Intel Graphics,Integrated,36.0,1024.0,14.0,54290000.0,0.0,0.0
+MSI,Laptop MSI Gaming Stealth 16 AI+ B3WF,Intel Core Ultra 9 Panther Lake 386H,Intel,Intel Core Ultra 9,NVIDIA GeForce RTX 5060,NVIDIA,NVIDIA GeForce RTX,Dedicated,32.0,2048.0,16.0,79990000.0,0.0,0.0
+MSI,Laptop MSI Gaming Stealth 16 AI+ B3WG,Intel Core Ultra 9 Panther Lake 386H,Intel,Intel Core Ultra 9,NVIDIA GeForce RTX 5070,NVIDIA,NVIDIA GeForce RTX,Dedicated,32.0,1024.0,16.0,85990000.0,0.0,0.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 13,Intel Core Ultra 7 Lunar Lake 256V,Intel,Intel Core Ultra 7,Intel Arc 140V,Intel,Intel Arc,Integrated,16.0,512.0,14.0,67190000.0,5.0,3.0
+Lenovo,Laptop Lenovo ThinkPad X1 Carbon Gen 13,Intel Core Ultra 5 Lunar Lake 226V,Intel,Intel Core Ultra 5,Intel Arc Graphics 130V,Intel,Intel Arc,Integrated,16.0,512.0,14.0,55690000.0,5.0,4.0
+Dell,Laptop Dell 16 DC16250,Intel Core 5 Raptor Lake 120U,Intel,Intel Core 5,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,1024.0,16.0,25090000.0,0.0,0.0
+HP,Laptop HP Probook 4 G1i 16,Intel Core Ultra 7 Arrow Lake 255H,Intel,Intel Core Ultra 7,Intel Graphics,Intel,Intel Graphics,Integrated,16.0,512.0,16.0,32990000.0,5.0,22.0
+HP,Laptop HP Gaming OMEN 14 fb0135TX,Intel Core Ultra 7 Meteor Lake 155H,Intel,Intel Core Ultra 7,"NVIDIA GeForce RTX 4060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,1024.0,14.0,62790000.0,5.0,1.0
+ASUS,Laptop Asus TUF Gaming F16 FX608JMI,Intel Core i7 Raptor Lake 14650HX,Intel,Intel Core i 7,"NVIDIA GeForce RTX 5060, 8 GB",NVIDIA,NVIDIA GeForce RTX,Dedicated,16.0,2048.0,16.0,49990000.0,5.0,152.0
